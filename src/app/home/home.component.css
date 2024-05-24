@@ -1,0 +1,36 @@
+
+.smaller-image {
+  max-width: 60%;
+}
+y
+/* Custom styles */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #7F00FF; /* Purple color */
+  border-color: #7F00FF; /* Purple color */
+}
+
+.btn-primary:hover {
+  background-color: #5A00B2; /* Darker shade of purple */
+  border-color: #5A00B2; /* Darker shade of purple */
+}
+
+.btn-success {
+  background-color: #7F00FF; /* Purple color */
+  border-color: #7F00FF; /* Purple color */
+}
+
+.btn-success:hover {
+  background-color: #5A00B2; /* Darker shade of purple */
+  border-color: #5A00B2; /* Darker shade of purple */
+}
+
+
+
